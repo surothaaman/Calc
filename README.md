@@ -278,6 +278,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (76).png>)
+![Screenshot (76)](https://github.com/surothaaman/Calc/assets/133313653/7141bc3b-1a71-4d9b-a343-bce58fa5f69f)
+
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
